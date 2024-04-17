@@ -1,0 +1,3 @@
+Link: https://dl.acm.org/doi/10.1145/3544548.3581524
+
+This week I reviwed the paper "Who Do We Mean When We Talk About Visualization Novices?" by Burns, Lee, Chawla, Peck, and Mahyar. I chose this paper from the inspo folder because I myself am a visualization novice, but am interested in learning more so I thought it would be interesting to see what kinds of traits set pros apart from novices in this field. In this paper, the authors seek to define "novices" in order to determine how to best focus on them as an audience when designing visualizations. Having a clear idea of who is intended to use 
